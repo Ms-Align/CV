@@ -9,7 +9,7 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "src": "\thttps://www.zhongfw.online/align-minio/avatar/e25cfacf9c1be4d8c2bdfe5c9f53d464.jpeg",
     "hidden": false
   },
   "profile": {
@@ -25,30 +25,28 @@
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2017.09.01",
+        "2021.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
+      "school": "商丘师范学院",
+      "major": "电子信息工程",
+      "academic_degree": "本科",
+      "dataIndex": 0
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "英语 CET4",
+      "award_time": "2020",
+      "dataIndex": 0
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_time": "2020",
+      "award_info": "优秀志愿者"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_time": "2021",
+      "award_info": "三好学生"
     }
   ],
   "workExpList": [
