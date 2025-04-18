@@ -154,6 +154,10 @@
       "work_desc": "基于React的SPA内容管理系统。",
       "visit_link": "https://www.zhongfw.online/blog/markdown-editor/",
       "dataIndex": 1
+    },
+    {
+      "work_name": "aling-cli",
+      "work_desc": "自建脚手架，可用于初始化基于React的SPA应用或组件库"
     }
   ],
   "aboutme": {
