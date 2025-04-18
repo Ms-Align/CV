@@ -2,14 +2,14 @@
   "titleNameMap": {
     "educationList": "教育背景",
     "workExpList": "工作经历",
-    "projectList": "项目经验",
+    "projectList": "项目经历",
     "skillList": "个人技能",
     "awardList": "更多信息",
     "workList": "个人作品",
-    "aboutme": "个人评价"
+    "aboutme": "自我介绍"
   },
   "avatar": {
-    "src": "https://www.zhongfw.online/align-minio/avatar/e25cfacf9c1be4d8c2bdfe5c9f53d464.jpeg",
+    "src": "https://www.zhongfw.online/align-minio/avatar/mmexport1744978310172.jpeg",
     "hidden": false
   },
   "profile": {
@@ -17,147 +17,116 @@
     "email": "1739174050@qq.com",
     "mobile": "15051004949",
     "github": "https://github.com/ZhongFarewell",
-    "zhihu": "https://gitee.com/aligns",
-    "workExpYear": "4年",
-    "workPlace": "江苏南京",
+    "zhihu": "https://zhihu.com/people/ZhongFarewell",
+    "workExpYear": "",
+    "workPlace": "浙江杭州",
     "positionTitle": "前端工程师"
   },
   "educationList": [
     {
       "edu_time": [
-        "2017.09.01",
-        "2021.06.30"
+        "2014.09.01",
+        "2018.06.30"
       ],
-      "school": "商丘师范学院",
-      "major": "电子信息工程",
-      "academic_degree": "本科",
-      "dataIndex": 0
+      "school": "华南理工大学",
+      "major": "网络工程",
+      "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET4",
-      "award_time": "2020",
-      "dataIndex": 0
+      "award_info": "英语 CET6",
+      "award_time": "2015"
     },
     {
-      "award_time": "2020",
-      "award_info": "个人优秀志愿者",
-      "dataIndex": 1
+      "award_info": "蚂蚁近卫军 卓越个人奖",
+      "award_time": "2018.09"
     },
     {
-      "award_time": "2021",
-      "award_info": "三好学生"
+      "award_info": "前端练习生 可视化讲师",
+      "award_time": "2020.10"
+    },
+    {
+      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
+      "award_time": "2021.07"
     }
   ],
   "workExpList": [
     {
-      "company_name": "苏迪科技有限公司",
-      "department_name": "研发部门",
+      "company_name": "蚂蚁集团",
+      "department_name": "体验技术部",
       "work_time": [
-        "2023.5",
-        ""
+        "2018.06",
+        null
       ],
-      "work_desc": "1. 作为前端工程师参与公司关键低代码平台Coreplus2的开发工作，参与公司通用组件的设计及开发工作。\n2. 作为主要开发负责主营项目万能表单的开发和迭代工作。",
-      "dataIndex": 0
+      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
     },
     {
-      "company_name": "永中软件股份有限公司",
-      "department_name": "wo4.x产品部",
+      "company_name": "蚂蚁金服",
+      "department_name": "大数据部",
       "work_time": [
-        "2021.03",
-        "2023.03"
+        "2017.06",
+        "2017.12"
       ],
-      "work_desc": "前端开发工程师。参与公司主营项目web office4的开发工作。",
-      "dataIndex": 1
+      "work_desc": "前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+    },
+    {
+      "company_name": "数沃信息科技有限公司",
+      "department_name": "",
+      "work_time": [
+        "2017.03",
+        "2017.05"
+      ],
+      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
     }
   ],
   "skillList": [
     {
-      "skill_name": "css",
-      "skill_level": 100,
-      "skill_desc": "熟练使用css/html及浏览器dom，bom对象，熟悉常用样式方案例如：css in js、less/sass、module style。",
-      "dataIndex": 0
+      "skill_name": "HTML 和 CSS",
+      "skill_desc": "",
+      "skill_level": 89
     },
     {
-      "skill_name": "javascript/typescript",
-      "skill_level": 100,
-      "skill_desc": "掌握Typescript/javascript编程语言，具备面向对象和函数式编程思维。"
+      "skill_name": "TypeScript / JavaScript",
+      "skill_level": 90
     },
     {
-      "skill_name": "React",
-      "skill_level": 100,
-      "skill_desc": "熟练使用React 框架，熟悉React相关生态工具的使用，例如antd系列、mui 框架、tailwind css框架、ahook、echarts等。",
-      "dataIndex": 2
+      "skill_name": "数据可视化",
+      "skill_desc": "丰富的可视化工程实践以及开源经验",
+      "skill_level": 90
     },
     {
-      "skill_name": "webpack",
-      "skill_level": 80,
-      "skill_desc": "熟悉webpack构建工具，熟悉前端工程化流程，理解并能使用常见构建方案如：SPA、SSR、CSR。",
-      "dataIndex": 3
-    },
-    {
-      "skill_name": "nodejs",
-      "skill_level": 80,
-      "skill_desc": "熟练异步编程，有node.js，egg.js开发及部署经验。"
-    },
-    {
-      "skill_name": "运维",
-      "skill_level": 80,
-      "skill_desc": "能够使用常见部署工具，如Tabby、WinScp、Docker、Nginx、Mongodb、Redis等。",
-      "dataIndex": 5
+      "skill_name": "React / 前端工程化",
+      "skill_desc": "大型前端项目经验以及组件库开发经验",
+      "skill_level": 80
     }
   ],
   "projectList": [
     {
-      "project_name": "万能表单",
-      "project_role": "主要研发",
-      "project_time": "2023.06 - 2023.12",
-      "project_desc": "可配置化表单系统，提供可视化编辑器与预览功能，降低用户使用门槛。表单元素封装为可复用的React组件，支持动态渲染与扩展。集成任务分发系统，支持将表单提交的数据自动分派给指定部门或人员处理。通过图表（如柱状图、折线图、热力图）可视化展示表单填写数据",
-      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代\n2.表单组件的设计及开发",
-      "dataIndex": 0
+      "project_name": "数据作战室",
+      "project_role": "前端负责人",
+      "project_time": "2019.04 - 2020.06",
+      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
+      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
     },
     {
-      "project_name": "校园融媒体平台",
-      "project_role": "主要开发",
-      "project_time": "2024.08,2024.12",
-      "project_desc": "一站式校园新媒体内容生产、分发与数据管理平台。统一内容库：支持文字、图片、视频、直播流等多格式内容的集中存储与分类管理，结合AI智能标签（如人脸识别、语音识别）实现快速检索与复用。\n跨平台一键发布：通过对接抖音、微博、B站等平台API，实现内容的多端同步发布，并支持自定义发布时间、受众定位及分发策略。\n内容安全审核：集成敏感词过滤、AI内容审核工具，确保发布内容符合学校规范与政策要求。",
-      "project_content": "主要前端开发",
-      "dataIndex": 1
+      "project_name": "DeepInsight",
+      "project_role": "可视分析负责人",
+      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
+      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
+      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
     },
     {
-      "project_name": "coreplus2.0",
-      "project_role": "前端开发",
-      "project_time": "2023.08 - 2024.08",
-      "project_desc": "面向高校的可视化、低代码流程与应用开发平台。",
-      "project_content": "1.低代码编辑器功能的迭代及开发\n2.低代码编辑器通用组件的开发",
-      "dataIndex": 2
-    },
-    {
-      "project_time": "2021.03 - 2023.03",
-      "project_name": "web office4.0",
-      "project_role": "前端开发",
-      "project_desc": "支持Word、Excel、PPT的web在线编辑，无需安装本地Office或插件。深度兼容微软office引用，支持多人在线协同编辑。",
-      "project_content": "1.研究微软文档对项目迭代所需要的功能与规格进行评估。制定产品功能及规范。\n2.负责编辑器菜单功能的开发工作。",
-      "dataIndex": 3
+      "project_name": "G2、G2Plot",
+      "project_role": "核心开发者",
+      "project_time": "2019 - 至今",
+      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
     }
   ],
-  "workList": [
-    {
-      "work_name": "ZhongFarewell",
-      "work_desc": "基于next.js构建的SSR个人站点，inspired by vuepress-theme-gungnir。",
-      "visit_link": "https://www.zhongfw.online",
-      "dataIndex": 0
-    },
-    {
-      "work_name": "vditor",
-      "work_desc": "基于React的SPA内容管理系统。",
-      "visit_link": "https://www.zhongfw.online/blog/markdown-editor/",
-      "dataIndex": 1
-    }
-  ],
+  "workList": [],
   "aboutme": {
-    "aboutme_desc": "深究实践原理，创新实践方法，保障实践质量"
+    "aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n    "
   },
   "theme": {
     "color": "#2f5785",
