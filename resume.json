@@ -140,6 +140,28 @@
       "project_desc": "支持Word、Excel、PPT的web在线编辑，无需安装本地Office或插件。深度兼容微软office引用，支持多人在线协同编辑。",
       "project_content": "1.研究微软文档对项目迭代所需要的功能与规格进行评估。制定产品功能及规范。\n2.负责编辑器菜单功能的开发工作。",
       "dataIndex": 3
+    },
+    {
+      "project_time": "2025.04 - 2025.06",
+      "project_name": "数字智能问答平台",
+      "project_role": "前端开发",
+      "project_desc": "1",
+      "project_content": "1",
+      "dataIndex": 4
+    },
+    {
+      "project_time": "2025.04 - 2025.06",
+      "project_name": "复旦大学复旦源小程序",
+      "project_role": "前端开发",
+      "project_desc": "1.基于mpx构建的微信小程序\n2.复旦源小程序展示了复旦大学",
+      "project_content": "1.小程序用户中心开发\n2.用户预约列表及详情开发，预约核销业务功能实现及开发"
+    },
+    {
+      "project_time": "2024.11 - 2025.06",
+      "project_name": "融媒体管理平台-融媒体编辑器",
+      "project_role": "主要开发",
+      "project_desc": "1",
+      "project_content": "1"
     }
   ],
   "workList": [
