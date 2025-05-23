@@ -111,7 +111,7 @@
   ],
   "projectList": [
     {
-      "project_name": "万能表单",
+      "project_name": "万能表单(React)",
       "project_role": "主要研发",
       "project_time": "2023.06 - 2023.12",
       "project_desc": "可配置化表单系统，提供可视化编辑器与预览功能，降低用户使用门槛。表单元素封装为可复用的React组件，支持动态渲染与扩展。集成任务分发系统，支持将表单提交的数据自动分派给指定部门或人员处理。通过图表（如柱状图、折线图、热力图）可视化展示表单填写数据",
@@ -119,7 +119,7 @@
       "dataIndex": 0
     },
     {
-      "project_name": "校园融媒体平台",
+      "project_name": "校园融媒体平台(React)",
       "project_role": "主要开发",
       "project_time": "2024.08,2024.12",
       "project_desc": "一站式校园新媒体内容生产、分发与数据管理平台。统一内容库：支持文字、图片、视频等多格式内容的集中存储与分类管理。\n跨平台一键发布：通过对接抖音、微博、B站等平台API，实现内容的多端同步发布，并支持自定义发布时间、受众定位及分发策略。\n内容安全审核：集成敏感词过滤、AI内容审核工具，AI评论情绪识别确保发布内容符合学校规范与政策要求。\n数据统计：访问量，粉丝量等多维度数据增长统计分析，算法动态计算账号影响力并排名。",
@@ -127,7 +127,7 @@
       "dataIndex": 1
     },
     {
-      "project_name": "coreplus2.0",
+      "project_name": "coreplus2.0(React)",
       "project_role": "前端开发",
       "project_time": "2023.08 - 2024.08",
       "project_desc": "面向高校的可视化、低代码流程与应用开发平台。",
@@ -136,7 +136,7 @@
     },
     {
       "project_time": "2021.03 - 2023.03",
-      "project_name": "web office4.0",
+      "project_name": "web office4.0(Typescript)",
       "project_role": "前端开发",
       "project_desc": "支持Word、Excel、PPT的web在线编辑，无需安装本地Office或插件。深度兼容微软office引用，支持多人在线协同编辑。",
       "project_content": "1.研究微软文档对项目迭代所需要的功能与规格进行评估。制定产品功能及规范。\n2.负责编辑器菜单功能的开发工作。",
@@ -144,7 +144,7 @@
     },
     {
       "project_time": "2025.04 - 2025.06",
-      "project_name": "数字智能问答平台",
+      "project_name": "数字智能问答平台(React)",
       "project_role": "前端开发",
       "project_desc": "为学校平台提供的数字智能问答平台，基于deepseek与各学校内容深度定制，在常见的AI问答基础上为向学生和教师提供校园快捷服务：如就业数据统计，学分获奖查询，请假留校办理等功能。",
       "project_content": "主要前端开发，负责问答平台前端框架开发及AI产出内容的渲染，如图表，表单。",
@@ -152,7 +152,7 @@
     },
     {
       "project_time": "2025.04 - 2025.06",
-      "project_name": "复旦大学复旦源小程序",
+      "project_name": "复旦大学复旦源小程序(Mpx+Vue3)",
       "project_role": "前端开发",
       "project_desc": "基于 MPX 框架开发微信小程序，采用 WXML/WXSS 实现跨平台兼容性，结合 Vant Weapp 组件库优化 UI/UX。\n为复旦大学各历史场馆提供信息展示，提供场馆参观预约参观功能。实现了完整的预约，参观，核销功能。",
       "project_content": "1.小程序用户中心开发\n2.用户预约列表及详情开发\n3.预约核销业务功能实现及开发",
@@ -160,7 +160,7 @@
     },
     {
       "project_time": "2024.11 - 2025.06",
-      "project_name": "融媒体管理平台-融媒体编辑器",
+      "project_name": "融媒体管理平台-融媒体编辑器(React)",
       "project_role": "主要开发",
       "project_desc": "内容产生：基于ueditor/lexical实现的内容生产编辑器，支持音视频、pdf、word等媒体文件插入继承。支持内容节点定制及扩展。\n流程审核：支持审核流程定制，审核人权限定制(如修订和发布)，实现多版本记录及回退。",
       "project_content": "编辑器已有版本维护及迭代，编辑器新特性开发。担任基于lexical的新版编辑器主要开发。",
